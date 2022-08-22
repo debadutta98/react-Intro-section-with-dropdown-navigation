@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-Intro-section-with-dropdown-navigation/static/css/main.5d5f529d.css",
-    "main.js": "/react-Intro-section-with-dropdown-navigation/static/js/main.c93d5774.js",
+    "main.css": "/react-Intro-section-with-dropdown-navigation/static/css/main.623092ce.css",
+    "main.js": "/react-Intro-section-with-dropdown-navigation/static/js/main.a2ad6852.js",
     "static/js/787.169f9516.chunk.js": "/react-Intro-section-with-dropdown-navigation/static/js/787.169f9516.chunk.js",
     "static/media/image-hero-desktop.png": "/react-Intro-section-with-dropdown-navigation/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/react-Intro-section-with-dropdown-navigation/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
@@ -19,12 +19,12 @@
     "static/media/icon-menu.svg": "/react-Intro-section-with-dropdown-navigation/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
     "static/media/icon-arrow-down.svg": "/react-Intro-section-with-dropdown-navigation/static/media/icon-arrow-down.bebf05132571af33611e.svg",
     "static/media/icon-arrow-up.svg": "/react-Intro-section-with-dropdown-navigation/static/media/icon-arrow-up.01861a1152dfab5f1070.svg",
-    "main.5d5f529d.css.map": "/react-Intro-section-with-dropdown-navigation/static/css/main.5d5f529d.css.map",
-    "main.c93d5774.js.map": "/react-Intro-section-with-dropdown-navigation/static/js/main.c93d5774.js.map",
+    "main.623092ce.css.map": "/react-Intro-section-with-dropdown-navigation/static/css/main.623092ce.css.map",
+    "main.a2ad6852.js.map": "/react-Intro-section-with-dropdown-navigation/static/js/main.a2ad6852.js.map",
     "787.169f9516.chunk.js.map": "/react-Intro-section-with-dropdown-navigation/static/js/787.169f9516.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d5f529d.css",
-    "static/js/main.c93d5774.js"
+    "static/css/main.623092ce.css",
+    "static/js/main.a2ad6852.js"
   ]
 }
