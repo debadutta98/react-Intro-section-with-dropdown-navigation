@@ -11,7 +11,7 @@ body{
     @apply text-Medium-Gray hover:text-black;
 }
 .side-menu{
-    @apply  flex sm-lmin:invisible absolute flex-col right-0 top-0 bottom-0  w-9/12 sm-x:w-1/2 bg-Almost-White drop-shadow-2xl shadow-black gap-2 px-4 pt-3;
+    @apply  flex sm-lmin:invisible absolute flex-col right-0 top-0 bottom-0  w-9/12 min-h-full sm-x:w-1/2 bg-Almost-White drop-shadow-2xl shadow-black gap-2 px-4 pt-3;
 }
 .nav-button
 {
